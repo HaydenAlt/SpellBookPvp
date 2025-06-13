@@ -1,1 +1,1 @@
-Find me on discord, my username is PeaceGodH.
+Find me on Discord, my username is PeaceGodH.
