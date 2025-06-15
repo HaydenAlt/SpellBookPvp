@@ -13,5 +13,5 @@ If the issue is still present, you can report the issue to us with the issues ta
 
 # Contact
 To find the creator of this repository, you can either:\
-Create an issue with the "Creator Needed" label, or\
+Create an issue, or\
 Find me on Discord with the username "PeaceGodH".
