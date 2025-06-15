@@ -8,6 +8,8 @@ We suggest backing up your server periodically, as it is always a smart move.
 
 ## Reporting a Vulnerability
 
-You can use the "issues" or "security" depending on the severity.
+Please be sure that it is an issue or a bug with the code.
+You can use the "issues" tab in that case.
+If you are not sure, you can check the list in our [support file](https://github.com/HaydenAlt/SpellBookPvp/blob/main/SUPPORT.md).
 You can also dm me directly on Discord. My username is PeaceGodH.
 Any major vulnerabilities or bugs should be fixed within a week.
